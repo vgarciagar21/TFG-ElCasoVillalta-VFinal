@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3245f9da3e0a24342a4920f21cb9989a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - InventoryCanvas: {fileID: 3728437068038445427, guid: 13d16f59df0fadf44b617e64f3101bfd,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
