@@ -40,7 +40,7 @@ public class Code4Digits : MonoBehaviour
         if (digitsTexts[0].text == "9" && digitsTexts[1].text == "5" && digitsTexts[2].text == "6" && digitsTexts[3].text == "1") //Murder: Forense
         {
             ResetDigits();
-            isPassword1();
+            isPassword2();
             return;
         }
         
